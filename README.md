@@ -21,6 +21,3 @@ An immersive dark mode experience where your cursor becomes a flashlight, reveal
 
 [Live Demo](https://your-demo-link.com) | [Screenshots](#screenshots)
 
-
-darkness.style.opacity = '1';
-flashlight.style.opacity = '1';
