@@ -19,5 +19,5 @@ An immersive dark mode experience where your cursor becomes a flashlight, reveal
 
 ## 🎯 Demo
 
-[Live Demo](https://your-demo-link.com) | [Screenshots](#screenshots)
+[Live Demo] (https://saurabd007.github.io/Cursor_as_a_flash_light/)
 
